@@ -38,7 +38,7 @@ Reconstruct a suspected collection-and-exfiltration sequence from available Wind
 
 | File | Description |
 |---|---|
-| [`investigation-walkthrough.md`]((https://github.com/DunaCyber/splunk-winrm-collection-investigation/blob/main/investigation/02-investigation-walkthrough.md)) | Detailed investigation stages, documented SPL searches, query rationale, timeline, indicators, ATT&CK mapping, limitations, and recommended response actions |
+| [`investigation-walkthrough.md`](https://github.com/DunaCyber/splunk-winrm-collection-investigation/blob/main/investigation/02-investigation-walkthrough.md) | Detailed investigation stages, documented SPL searches, query rationale, timeline, indicators, ATT&CK mapping, limitations, and recommended response actions |
 
 ## Evidence and methodology note
 
