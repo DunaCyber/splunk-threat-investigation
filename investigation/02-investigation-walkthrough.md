@@ -410,9 +410,6 @@ This sequence is consistent with a possible collection-and-exfiltration operatio
 
 ### Limitations
 
-- The original TryHackMe SIEM links and screenshots are unavailable. Event field extraction may also differ between Splunk configurations and Windows event sources; the SPL examples should be adapted to the fields available in a given environment.
-- The four SPL searches in this document are representative searches preserved in the investigation notes, not a verified export of the full original Splunk search history.
-- No exact result counts are claimed.
 - Process-creation and script-block events show commands or scripts being launched or submitted; they do not always prove successful completion.
 - Share-access events do not, on their own, prove that specific files were copied.
 - The upload command does not prove that the remote server received the archive.
@@ -442,5 +439,3 @@ The following are **recommended actions for a real incident**, not actions perfo
 
 ## 9. Portfolio note
 This project documents a defensive investigation of Windows endpoint and network-share telemetry using Splunk. It demonstrates event filtering, process lineage review, PowerShell activity analysis, account and share-access correlation, timeline reconstruction, ATT&CK mapping, and evidence-based assessment.
-
-The project intentionally distinguishes observed activity from analyst interpretation and confirmed outcomes. No screenshots or SIEM links are included because the lab environment is no longer accessible and those artifacts were not retained.
