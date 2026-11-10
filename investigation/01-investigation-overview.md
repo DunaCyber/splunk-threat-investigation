@@ -22,8 +22,6 @@ These identifiers are part of the simulated lab scenario.
 - Windows Event Logs
 - PowerShell-related event data
 
-Record the exact index, sourcetype, host filters, and event sources you used in `../splunk/searches.md`. Do not guess these values.
-
 ## Approach
 1. Establish relevant hosts, users, time range, and data sources.
 2. Search for process and PowerShell activity.
