@@ -38,7 +38,7 @@ Reconstruct a suspected collection-and-exfiltration sequence from available Wind
 
 | File | Description |
 |---|---|
-| [`investigation-walkthrough.md`](investigation-walkthrough.md) | Detailed investigation stages, documented SPL searches, query rationale, timeline, indicators, ATT&CK mapping, limitations, and recommended response actions |
+| [`02-investigation-walkthrough.md`](investigation-walkthrough.md) | Detailed investigation stages, documented SPL searches, query rationale, timeline, indicators, ATT&CK mapping, limitations, and recommended response actions |
 
 ## Evidence and methodology note
 
