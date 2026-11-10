@@ -11,8 +11,6 @@ This investigation reviewed Windows endpoint and security telemetry from a TryHa
 - `curl.exe` was launched with an explicit command to upload that archive to `45.147.230.131:8443`.
 - The evidence supports suspicious collection and attempted transfer behavior, but does not confirm that all copies or archive creation succeeded, that the upload completed, or that all observed activity had one operator.
 
-**Evidence note:** This walkthrough is based on retained investigation notes. The SPL searches are representative examples, not a verified export of the complete original search history. Original SIEM screenshots and links were not retained.
-
 ## 1. Lab environment and data sources
 The investigation used the TryHackMe lab environment and Splunk to search collected Windows telemetry.
 
