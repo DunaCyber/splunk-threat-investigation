@@ -18,7 +18,7 @@ Tools and sources:
 
 - **Splunk:** searched, filtered, sorted, and correlated event records.
 - **Sysmon:** reviewed process creation, network connections, and selected process/file activity.
-- **PowerShell Script Block Logging:** examined PowerShell commands recorded in script block events (Event ID 4104).
+- **PowerShell Script Block Logging:** examined PowerShell commands recorded in script block events.
 - **Windows Security logs:** reviewed successful logons and network-share access, including Event IDs 4624, 5140, and 5145.
 
 Relevant systems and identities:
@@ -31,8 +31,6 @@ Relevant systems and identities:
 | `TRYHATME\s.reyes` | User associated with the PowerShell collection and upload sequence |
 | `TRYHATME\svc-studioops` | Service account associated with remote-management, reconnaissance, and share-access events |
 
-## 2. Investigation workflow and findings
-The investigation narrative preserves the original course stages, while the additional remote-management event originally labeled Stage 7 is incorporated into Stage 3. The consolidated timeline is ordered by timestamp.
 
 ### Stage 1 — Remote access and marketing directory discovery
 
