@@ -28,11 +28,11 @@ Reconstruct a suspected collection-and-exfiltration sequence from available Wind
 
 ## Tools and telemetry
 
-- **Splunk** — searching, filtering, sorting, and correlating event records
-- **Sysmon** — process creation and related endpoint telemetry
-- **PowerShell Script Block Logging** — Event ID 4104
-- **Windows Security auditing** — including Event IDs 4624, 5140, and 5145
-- **TryHackMe** — lab environment
+- **Splunk**: searching, filtering, sorting, and correlating event records
+- **Sysmon**: process creation and related endpoint telemetry
+- **PowerShell Script Block Logging**: Event ID 4104
+- **Windows Security auditing**: including Event IDs 4624, 5140, and 5145
+- **TryHackMe**: lab environment
 
 ## Repository contents
 
