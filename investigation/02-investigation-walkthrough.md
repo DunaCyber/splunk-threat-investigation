@@ -233,9 +233,6 @@ The process command line is direct evidence that an upload command was launched 
 
 
 ## 3. Splunk searches and search rationale
-### Query provenance
-
-These are representative SPL searches preserved in the investigation notes, not a verified export of every query typed during the lab. The original SIEM URLs and screenshots were not retained. See the Limitations section for additional evidence and source constraints.
 
 ### Search 1 — Review process creation on the remote host
 
